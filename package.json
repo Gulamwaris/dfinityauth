@@ -1,7 +1,7 @@
 {
-  "name": "ii_env",
+  "name": "ic_env",
   "version": "1.0.0",
-  "description": "ii env canisters",
+  "description": "ic env canisters",
   "main": "index.js",
   "scripts": {
     "deploy": "node ./scripts/deployer.js --clean"
